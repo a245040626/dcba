@@ -5,7 +5,7 @@ public class book {
 	String name;
 	double price;
 	public String show() {
-		return no+"\t"+name+"\t"+price;
+		return no+"\t"+name+"\t"+price+"\t";
 		
 	}
 }
